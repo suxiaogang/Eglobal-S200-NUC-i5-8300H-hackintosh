@@ -13,6 +13,7 @@ BIOS set up:
 * Fast Boot -> Disabled
 * CSM Support -> Disabled
 
+![screenshot](https://raw.githubusercontent.com/suxiaogang/Eglobal-S200-Nuc-i5-8300H-hackintosh/master/desktop-catalina.jpg)
 ![screenshot](https://raw.githubusercontent.com/suxiaogang/Eglobal-S200-Nuc-i5-8300H-hackintosh/master/desktop.jpg)
 
 Links:
