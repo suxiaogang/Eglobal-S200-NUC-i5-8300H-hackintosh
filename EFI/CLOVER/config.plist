@@ -115,7 +115,7 @@
 		<key>NoEarlyProgress</key>
 		<true/>
 		<key>Timeout</key>
-		<integer>3</integer>
+		<integer>2</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
@@ -260,6 +260,10 @@
 				<data>
 				AQAAAA==
 				</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>
+				AAAAgA==
+				</data>
 				<key>framebuffer-portcount</key>
 				<data>
 				AgAAAA==
@@ -288,7 +292,6 @@
 		<array>
 			<string>Preboot</string>
 			<string>Recovery</string>
-			<string>FileVault</string>
 		</array>
 		<key>Mouse</key>
 		<dict>
@@ -304,8 +307,6 @@
 			<key>Tool</key>
 			<true/>
 		</dict>
-		<key>ScreenResolution</key>
-		<string>1920x1080</string>
 		<key>Theme</key>
 		<string>Hackintosh_ID</string>
 	</dict>
@@ -341,11 +342,17 @@
 	<dict>
 		<key>ProductName</key>
 		<string>Macmini8,1</string>
+		<key>SerialNumber</key>
+		<string>C07XRRYSJYVX</string>
+		<key>SmUUID</key>
+		<string>B626F422-4FDE-462A-9290-410F29070B1C</string>
 		<key>Trust</key>
 		<true/>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
+		<key>CustomUUID</key>
+		<string>CDFFB33E-65C7-4633-8E75-2057837DB43C</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
