@@ -13,7 +13,7 @@ BIOS set up:
 * Fast Boot -> Disabled
 * CSM Support -> Disabled
 
-![screenshot](https://raw.githubusercontent.com/suxiaogang/Eglobal-S200-NUC-i5-8300H-hackintosh/master/BigSur.png)
+![screenshot](https://raw.githubusercontent.com/suxiaogang/Eglobal-S200-NUC-i5-8300H-hackintosh/master/BigSur.png?token=AAL6WHXHKLQTATAPH4GELJLA73HMC)
 
 Links:
 * https://www.aliexpress.com/item/32974757463.html
