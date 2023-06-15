@@ -4,7 +4,7 @@
 * [WD Blue™ SN550 NVMe™ SSD 1 TB](https://shop.westerndigital.com/zh-cn/products/internal-drives/wd-blue-sn550-nvme-ssd)
 * 32GB 2400MHz DDR4 RAM (16*2)
 * Intel® UHD Graphics 630
-* Wifi card: BCM94360CS2
+* Wifi card: [BCM94360CS2](http://en.techinfodepot.shoutwiki.com/wiki/Broadcom_BCM94360CS2)
 
 BIOS set up:
 * Secure Boot -> Disabled
@@ -13,7 +13,8 @@ BIOS set up:
 * Fast Boot -> Disabled
 * CSM Support -> Disabled
 
-![screenshot](https://user-images.githubusercontent.com/1567518/127012621-ef7a6d4b-8930-4911-afbe-1a8752ab8dc8.png)
+![screenshot](https://github.com/suxiaogang/Eglobal-S200-NUC-i5-8300H-hackintosh/blob/master/images/macOS.png?raw=true)
+![screenshot](https://raw.githubusercontent.com/suxiaogang/Eglobal-S200-NUC-i5-8300H-hackintosh/master/images/Sensei.png)
 
 Links:
 * https://www.aliexpress.com/item/32974757463.html
