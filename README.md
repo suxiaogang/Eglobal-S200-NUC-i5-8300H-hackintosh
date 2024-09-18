@@ -6,6 +6,8 @@
 * Intel® UHD Graphics 630
 * Wifi card: [BCM94360CS2](http://en.techinfodepot.shoutwiki.com/wiki/Broadcom_BCM94360CS2)
 
+OpenCore [1.0.1](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.1)
+
 BIOS set up:
 * Secure Boot -> Disabled
 * VT-d -> Enabled
