@@ -1,4 +1,4 @@
-
+Hardware :
 
 * [Intel® Core™ i5-8300H Processor, 8M Cache, up to 4.00 GHz](https://ark.intel.com/content/www/us/en/ark/products/134876/intel-core-i5-8300h-processor-8m-cache-up-to-4-00-ghz.html)
 * [WD Blue™ SN550 NVMe™ SSD 1 TB](https://shop.westerndigital.com/zh-cn/products/internal-drives/wd-blue-sn550-nvme-ssd)
@@ -6,9 +6,9 @@
 * Intel® UHD Graphics 630
 * Wifi card: [BCM94360CS2](http://en.techinfodepot.shoutwiki.com/wiki/Broadcom_BCM94360CS2)
 
-OpenCore [1.0.1](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.1)
+OpenCore: [1.0.1](https://github.com/acidanthera/OpenCorePkg/releases/tag/1.0.1)
 
-BIOS set up:
+BIOS set up :
 * Secure Boot -> Disabled
 * VT-d -> Enabled
 * Quiet Boot -> Enabled
